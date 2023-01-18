@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Word Highlighter",
   "description": "Highlight word on websites with a simple right-click or keyboard shortcut. Saves highlights on your device.",
-  "version": "4.0.4",
+  "version": "5.0.0",
   "homepage_url": "https://hellominaste.com",
   "icons": {
     "16": "images/16.png",
